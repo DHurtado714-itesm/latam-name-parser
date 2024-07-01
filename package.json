@@ -1,0 +1,27 @@
+{
+  "name": "latam-name-parser",
+  "version": "1.0.0",
+  "description": "A module to parse names and surnames by country in LATAM",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "latam",
+    "name",
+    "parser",
+    "names",
+    "surnames"
+  ],
+  "author": "Daniel Hurtado",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.9",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}
