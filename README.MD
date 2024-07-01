@@ -1,6 +1,6 @@
 # LATAM Name Parser
 
-[![Build Status](https://github.com/tuusuario/latam-name-parser/actions/workflows/publish.yml/badge.svg)](https://github.com/tuusuario/latam-name-parser/actions)
+[![Build Status](https://github.com/DHurtado714-itesm/latam-name-parser/actions/workflows/publish.yml/badge.svg)](https://github.com/DHurtado714-itesm/latam-name-parser/actions)
 
 LATAM Name Parser es un módulo npm que facilita el parseo de nombres y apellidos en diferentes países de Latinoamérica. La estructura de los nombres y apellidos puede variar significativamente entre países, y este módulo está diseñado para manejar estas variaciones, permitiendo a los desarrolladores trabajar de manera más eficiente.
 
