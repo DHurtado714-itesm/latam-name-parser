@@ -1,1 +1,1 @@
-export { parseName as parseGeneralName } from "./parsers/general.parser";
+export { parseName as parseLatamName } from "./parsers/general.parser";
