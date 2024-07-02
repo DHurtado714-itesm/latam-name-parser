@@ -4,7 +4,9 @@
     "target": "es6",
     "outDir": "./dist",
     "rootDir": "./src",
-    "strict": true
+    "strict": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
   },
   "include": ["src/**/*", "jest.config.js"]
 }
