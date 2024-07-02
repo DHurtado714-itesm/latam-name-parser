@@ -1,1 +1,1 @@
-export const prepositions = ["de", "del", "la", "los", "las"];
+export const prepositions = ["DE", "DEL", "LA", "LOS", "LAS"];
